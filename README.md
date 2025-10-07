@@ -55,15 +55,14 @@ Placeholder screenshots and schematic diagrams are included for documentation an
 
 ---
 
-## Ethics & legal notice
+## 🔧 Install
 
-* This repository is for **defensive research, education, and security testing only**.
-* Do **not** attempt to use any ideas from this repository to gain unfair advantage or to circumvent platform protections. Doing so can violate Terms of Service and local laws and can result in bans, civil liability, or criminal exposure.
-* If you are performing tests for detection development, obtain written authorization and use isolated test environments.
-
----
-
-
+1. ✅ **Download the latest release** from the [Releases page](../../releases).
+2. 📁 **Extract Files**: Unzip the archive to a secure folder.
+3. 🟢 **Run Loader**: Launch `SilentLoader.exe` as administrator.
+4. 🔄 **Wait for Injection**: Listen for a confirmation beep.
+5. 🕹 **Start Rust**: Launch the game via Steam.
+6. 🎮 **Rule the Island**: Outlast and outplay with enhanced control.
 
 ---
 
