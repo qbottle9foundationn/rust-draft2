@@ -47,7 +47,9 @@ This repository is a **research and defensive reference** that documents common 
 
 Placeholder screenshots and schematic diagrams are included for documentation and academic presentation:
 
-![diagram\_placeholder](/assets/image.png)
+![im](/assets/image.png)
+
+![im](/assets/image2.png)
 
 > Replace placeholders with sanitized, non-sensitive diagrams if you prepare a public report or academic paper.
 
