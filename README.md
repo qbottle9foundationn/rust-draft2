@@ -4,7 +4,7 @@
 
 ---
 
-## Short description (SEO friendly)
+## Short description
 
 Rust Tool 2025 — research-oriented reference covering conceptual implementations and analysis of **ESP**, **aimbot**, **wallhack**, and related in-game assist features for the game *Rust*. Intended for anti-cheat engineers, security researchers, and academic study. Keywords: Rust aimbot, Rust ESP, Rust wallhack, Rust cheat research, Rust Triggerbot.
 
