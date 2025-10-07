@@ -32,15 +32,12 @@ This repository is a **research and defensive reference** that documents common 
 
 ---
 
-## Research-focused features
+## 🍀Features🍀
 
-The following features are described at a conceptual level for analysis and detection research:
-
-* **Aimbot** — conceptual algorithms for target selection, smoothing functions, FOV calculations, and telemetry useful for building detection heuristics.
-* **ESP** — diagrams and rendering prototypes showing how player, loot, and structure information can be represented on-screen for telemetry and UX testing.
-* **Wallhack** — illustrative examples describing rendering and tagging approaches used by overlays; valuable for anti‑cheat pattern recognition and mitigations.
-* **Triggerbot** — high‑level descriptions of trigger conditions useful for generating false‑positive scenarios in detection test suites.
-* **Auxiliary modules** — recoil compensation models, aim‑prediction math, and minimap/telemetry visualizations — all documented for the purpose of improving defensive classifiers.
+* **Aimbot**
+* **ESP**
+* **Wallhack**
+* **Triggerbot**
 
 > These descriptions are intentionally non-actionable and are provided solely to help defenders and researchers reason about common cheat behaviors and detection signals.
 
