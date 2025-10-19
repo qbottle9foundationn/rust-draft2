@@ -1,0 +1,2 @@
+# Planning
+Implement circuit breaker pattern for external services
